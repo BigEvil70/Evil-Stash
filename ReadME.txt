@@ -1,1 +1,1 @@
-This is setup for the purposes of my COM437 Mobile Application Development class. Enter at your own risk. :)
+This is setup for the purposes of my COM437 Mobile Application Development class. Enter at your own risk. :)  Don't expect anything particularly insightful here for now....maybe ever.  I suppose we'll see. :)
