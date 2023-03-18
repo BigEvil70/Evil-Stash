@@ -1,0 +1,1 @@
+This is setup for the purposes of my COM437 Mobile Application Development class. Enter at your own risk. :)
